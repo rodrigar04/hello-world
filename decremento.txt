@@ -1,1 +1,1 @@
-Decremento el timeout
+Decremento el timeout 2 segundos
